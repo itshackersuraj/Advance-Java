@@ -24,57 +24,52 @@ This repository is designed for anyone who wants to deepen their Java programmin
 
 ## Getting Started
 
-To get started, ensure you have Java installed on your machine. You can download Java from the [official website](https://www.java.com/download/ie_manual.jsp).
+  - To get started, ensure you have Java installed on your machine. You can download Java from the [official website](https://www.java.com/download/ie_manual.jsp).
 
 ### Clone the Repository
 
-Clone this repository using:
+  - Clone this repository using:
 
-git clone https://github.com/Vedant-Hande/advance-java.git
+  - git clone https://github.com/Vedant-Hande/advance-java.git
 
 ### Usage
-To run any Java program, follow these steps:
+  - To run any Java program, follow these steps:
 
 ### Compile the Java program:
 
-javac path/to/program.java
+  - javac path/to/program.java
 
 ### Run the compiled Java program:
 
-java ProgramName
+  - java ProgramName
 
 #### For example, to run hello_world.java:
 
-javac basics/hello_world.java
-java basics.hello_world
+  - javac basics/hello_world.java
+  - java basics.hello_world
 
 ## Contributing
-Contributions are welcome! To contribute, please:
+  - Contributions are welcome! To contribute, please:
 
 ## Fork the repository.
 
-Create a new branch:
+  - Create a new branch:
 
-git checkout -b feature/your-feature
-Make your changes.
+  - git checkout -b feature/your-feature
+  - Make your changes.
 
 ## Commit your changes:
 
-git commit -am 'Add new feature'
-Push to the branch:
+  - git commit -am 'Add new feature'
+  - Push to the branch:
 
-
-
-git push origin feature/your-feature
+  - git push origin feature/your-feature
 
 ## Create a new Pull Request.
 
-Thank you for checking out this repository! If you have any questions or feedback, please open an issue or contact me.
+## Thank you for checking out this repository! If you have any questions or feedback, please open an issue or contact me.
 
 # Happy coding!
 
-
-
-This unified README.md combines all necessary information into one comprehensive guide, making it easier to navigate and understand the repository.
 
 
