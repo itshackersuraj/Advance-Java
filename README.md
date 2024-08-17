@@ -32,36 +32,33 @@ Clone this repository using:
 
 git clone https://github.com/Vedant-Hande/advance-java.git
 
-Usage
+### Usage
 To run any Java program, follow these steps:
 
-Compile the Java program:
-
+### Compile the Java program:
 
 javac path/to/program.java
-Run the compiled Java program:
 
-bash
+### Run the compiled Java program:
 
 java ProgramName
 
-For example, to run hello_world.java:
+#### For example, to run hello_world.java:
 
 javac basics/hello_world.java
 java basics.hello_world
-Contributing
+
+## Contributing
 Contributions are welcome! To contribute, please:
 
-Fork the repository.
+## Fork the repository.
 
 Create a new branch:
 
 git checkout -b feature/your-feature
 Make your changes.
 
-Commit your changes:
-
-
+## Commit your changes:
 
 git commit -am 'Add new feature'
 Push to the branch:
@@ -69,11 +66,12 @@ Push to the branch:
 
 
 git push origin feature/your-feature
-Create a new Pull Request.
+
+## Create a new Pull Request.
 
 Thank you for checking out this repository! If you have any questions or feedback, please open an issue or contact me.
 
-Happy coding!
+# Happy coding!
 
 
 
