@@ -33,15 +33,15 @@ This repository is designed for anyone who wants to deepen their Java programmin
   - git clone https://github.com/Vedant-Hande/advance-java.git
 
 ### Usage
-  - To run any Java program, follow these steps:
+  -- To run any Java program, follow these steps:
 
 ### Compile the Java program:
 
-  - javac path/to/program.java
+  -- javac path/to/program.java
 
 ### Run the compiled Java program:
 
-  - java ProgramName
+  -- java ProgramName
 
 #### For example, to run hello_world.java:
 
